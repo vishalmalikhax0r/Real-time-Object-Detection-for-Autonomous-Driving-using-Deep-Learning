@@ -1,28 +1,4 @@
-# Real-time Object Detection for Autonomous Driving using Deep Learning, Goethe University Frankfurt (Fall 2020)
-
-## General Information
-<img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
-
-**Instructors:**
-* [Prof. Dr. Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/team.html), email: roig@cs.uni-frankfurt.de
-* Dr. Iuliia Pliushch
-* Kshitij Dwivedi
-* Matthias Fulde
-
-**Institutions:**
-  * [Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)
-  * [Computational Vision & Artificial Intelligence](http://www.cvai.cs.uni-frankfurt.de/index.html)
-
-**Project team (A-Z):**
-* Duy Anh Tran
-* Pascal Fischer
-* Alen Smajic
-* Yujin So
-
-## Publications ##
- * [YouTube Video (YOLO)](https://www.youtube.com/watch?v=ANQczqZwaY4)
- * [YouTube Video (Faster R-CNN)](https://www.youtube.com/watch?v=3FvUOaxWnmg)
- * [ResearchGate](https://www.researchgate.net/publication/350090136_Real-time_Object_Detection_for_Autonomous_Driving_using_Deep_Learning)
+# Real-time Object Detection for Autonomous Driving using Deep Learning
 
 ## Project Description ##
 <img align="left" width="390" height="" src="Result%20images%20and%20videos/Video%20Thumbnails/YOLO.png">
